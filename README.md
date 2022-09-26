@@ -1,3 +1,35 @@
+# About This Project
+
+This is a simple Todo list made with react. I made this as a mini project to help myself learn React. I followed a guide to get the main ideas of my program, then built it. Unfortunately, there is not a demo.
+
+Application Features:
+
+- Responsive Design
+- Styled with TailwindCSS
+- Dark mode
+- Animated GUI using Framer Motion
+
+# What I Learned
+
+This project helped me apply my current knowledge on hooks to a 'real' project. It also challenged me to make a responsive design using TailwindCSS. If you are looking for a good React project to help you start learning, I would recommend a todo list like mine. I also may have overcommented a little, but that helps me understand the code further and is good for reference purposes.
+
+# View / Run Source
+
+If you'd like to look at the source code or run it on your machine, here is how.
+
+#### 1. Clone this repository
+Clone the repository in your terminal.
+##### `git clone https://github.com/nootjack/ReactTodoList`
+
+#### 2. Change your directory to the folder
+##### `cd {new folder name}`
+
+#### 3. Install dependencies
+##### `npm install`
+
+#### 4. Start the project
+##### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
