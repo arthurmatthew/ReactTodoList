@@ -19,7 +19,7 @@ If you'd like to look at the source code or run it on your machine, here is how.
 
 #### 1. Clone this repository
 Clone the repository in your terminal.
-##### `git clone https://github.com/nootjack/ReactTodoList`
+##### `git clone https://github.com/arthurmatthew/ReactTodoList`
 
 #### 2. Change your directory to the folder
 ##### `cd {new folder name}`
