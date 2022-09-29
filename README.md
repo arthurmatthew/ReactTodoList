@@ -1,6 +1,6 @@
 # About This Project
 
-This is a simple Todo list made with react. I made this as a mini project to help myself learn React. I followed a guide to get the main ideas of my program, then built it. Unfortunately, there is not a demo.
+This is a simple Todo list made with react. I made this as a mini project to help myself learn React. I followed a guide to get the main ideas of my program, then built it.
 
 Application Features:
 
